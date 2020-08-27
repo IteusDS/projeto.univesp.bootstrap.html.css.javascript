@@ -67,12 +67,12 @@ a:link {
  
  /* mouse over */
  a:hover {
-     color: #000000;
+     color: #404040;
  }
  
  /* link selecionado */
  a:active {
-     color: black;
+     color: #404040;
  }
 
  .back1{
