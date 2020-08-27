@@ -124,7 +124,27 @@ a:link {
 
  @media (max-width: 700px)
  {
-     .logo1 {
+     .img1{
          position: fixed;
      }
+     .logo1 {
+         margin: 0;
+        padding-left: 5px;
+        padding-top: 1px;
+     }
+     .curso{
+        padding-left: 5vh;
+        padding-right: 5vh;
+        font-family: 'Vidaloka', serif;     
  }
+     .grade{
+        padding-left: 5vh;
+        padding-right: 5vh;
+        font-family: 'Vidaloka', serif;     
+ }
+     .ctt{
+        padding-left: 5vh;
+        padding-right: 5vh;
+        font-family: 'Vidaloka', serif;     
+ }
+}
