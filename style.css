@@ -105,17 +105,17 @@ a:link {
  
  /* link que foi visitado */
  .bg1 a:visited {
-     color: white;
+     color: #404040;
  }
  
  /* mouse over */
  .bg1 a:hover {
-     color: #000000;
+     color: #404040;
  }
  
  /* link selecionado */
- .bg1a:active {
-     color: black;
+ .bg1 a:active {
+     color: #404040;
  }
  i {
      padding-left: 1vh;
