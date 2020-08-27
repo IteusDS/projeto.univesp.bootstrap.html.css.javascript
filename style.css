@@ -52,6 +52,7 @@
     padding:20px;
     text-align: center;
     color: whitesmoke;
+   
     
 }
 
@@ -119,4 +120,11 @@ a:link {
  }
  i {
      padding-left: 1vh;
+ }
+
+ @media (max-width: 700px)
+ {
+     .logo1 {
+         position: fixed;
+     }
  }
