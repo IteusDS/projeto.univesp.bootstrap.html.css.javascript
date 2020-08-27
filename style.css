@@ -99,7 +99,24 @@ a:link {
     color: #404040;
     padding-left: 3vh;
  }
+
+ 
+
+ 
+ /* link que foi visitado */
+ .bg1 a:visited {
+     color: white;
+ }
+ 
+ /* mouse over */
+ .bg1 a:hover {
+     color: #000000;
+ }
+ 
+ /* link selecionado */
+ .bg1a:active {
+     color: black;
+ }
  i {
      padding-left: 1vh;
  }
- 
