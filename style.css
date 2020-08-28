@@ -11,7 +11,7 @@
 .logo1 a:link {
     background: #a3130d;
     color: #fff;
-    font-weight: bold;
+    font-family: 'Vidaloka', serif;
     text-decoration: none;
     padding: 8px;
     float: left;
@@ -24,26 +24,52 @@
 }
  .curso{
      padding-left: 25vh;
+     margin-right: 20vh;
      padding-right: 30px;
      font-family: 'Vidaloka', serif;
+     text-align: justify;
    
      
  }
  .grade{
     padding-left: 25vh;
+    margin-right: 20vh;
     padding-right: 30px;
     font-family: 'Vidaloka', serif;
+    text-align: justify;
     
 }
 
 .ctt{
+  
     padding-left: 25vh;
-    padding-right: 0vh;
+    padding-right: 5vh;
     font-family: 'Vidaloka', serif;
-    padding-bottom: 15vh;
+    padding-bottom: 5vh;
+    padding-top: 2vh;
+    background-color: #a3130d;
+    border-style: none;
+    
+    color: whitesmoke;
 
     
 }
+
+.ctt button{
+    
+background-color: #470402;
+padding:1vh;
+border-style: none;
+margin-left: 4vh;
+transition-delay: 20ms;
+transition-duration: 300ms;
+
+}
+
+
+.ctt button:hover{
+    
+background-color:#300201;}
 .ctt1{
     padding-left: 25vh;
     padding-right: 30px;
@@ -133,16 +159,22 @@ a:link {
         padding-top: 1px;
      }
      .curso{
+         margin-right: 2vh;
+         text-align: justify;
         padding-left: 5vh;
         padding-right: 5vh;
         font-family: 'Vidaloka', serif;     
  }
      .grade{
+        margin-right: 2vh;
+        text-align: justify;
         padding-left: 5vh;
         padding-right: 5vh;
         font-family: 'Vidaloka', serif;     
  }
      .ctt{
+        margin-right: 2vh;
+        text-align: justify;
         padding-left: 5vh;
         padding-right: 5vh;
         font-family: 'Vidaloka', serif;     
